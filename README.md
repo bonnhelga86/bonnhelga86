@@ -1,5 +1,5 @@
 <p align='right'>
- <img src="https://i.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.webp" width="300" height="auto"/>
+ <img src="https://i.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.webp" width="100" height="auto"/>
 <p/>
 
 ### Frontend-разработчик (React)
