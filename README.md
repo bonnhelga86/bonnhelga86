@@ -66,6 +66,8 @@ _tg: @Olga_Bondarenko_86 / email: bonnhelga@mail.ru:_
   title="HTML5" alt="HTML5"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%230e8278?logo=javascript&logoColor=%23fff"
   title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%2349baf2?logo=typescript&logoColor=%23fff"
+  title="TypeScript" alt="TypeScript"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-%23c9d93b?logo=git&logoColor=%23fff"
   title="GIT" alt="GIT"/>&nbsp;
   <img src="https://img.shields.io/badge/Webpack-%23318835?logo=webpack&logoColor=%23fff"
